@@ -1,0 +1,35 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #2f3A47;
+}
+
+body {
+    background-color: #D2AAD2;
+}
+.image {
+    height: auto;
+    width: 400px;
+    margin: 10px;
+}
+h1, h2, h3, h4 {
+    text-align: center;
+    border: 3px #2f3A47 solid;
+    border-radius: 25px;
+}
+.image.spaghetti {
+    height: auto;
+    width: 500px;
+}
+a {
+    text-align: center;
+    border: 2px #2f3A47 solid;
+    border-radius: 25px;
+    margin: 5px;
+    padding: 5px;
+    text-decoration: none;
+    font-weight: 800;
+}
+a:hover {
+    background-color: #2f3A47;
+    color: aliceblue;
+}
